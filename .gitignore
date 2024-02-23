@@ -1,0 +1,15 @@
+# Bỏ qua các file cụ thể
+file_to_ignore.txt
+Data_Deep_learning_EPU_D15TTNT&TGMT.zip
+videodaura.mp4
+videodauvao.mp4
+
+# Bỏ qua tất cả các file .log
+*.log
+
+# Bỏ qua thư mục build/
+build/
+models/
+
+# Bỏ qua các file trong thư mục temp/
+temp/*
